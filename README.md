@@ -38,6 +38,6 @@ Unreal Engine4.27
 これらのゲームは、MITライセンスの下でライセンスされています。詳細は[LICENSE](LICENSE)ファイルをご覧ください。
 
 ## 開発者について
-名前: 野村佑哉  
-GitHub: Noyu-0723  
-Email: yuuya07237@gmail.com
+- 名前: 野村佑哉  
+- GitHub: Noyu-0723  
+- Email: yuuya07237@gmail.com
